@@ -47,7 +47,7 @@
    [https://link.springer.com/article/10.1007/s40747-025-02016-2](https://link.springer.com/article/10.1007/s40747-025-02016-2)  
    *Seems to be the first article mixing time and frequency domain*
 
-3. **Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy**
+3. **Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy**  
    [https://openreview.net/forum?id=LzQQ89U1qm_](https://openreview.net/forum?id=LzQQ89U1qm_)
 
 ---
@@ -84,7 +84,7 @@
    [https://github.com/qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)  
    *A Good Repo*
 
-2. **Datasets for Time Series Anomaly Detection**
+2. **Datasets for Time Series Anomaly Detection**  
    [https://github.com/elisejiuqizhang/TS-AD-Datasets](https://github.com/elisejiuqizhang/TS-AD-Datasets)
 
 ---
