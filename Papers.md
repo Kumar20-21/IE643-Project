@@ -83,7 +83,7 @@
 
 ---
 
-## Reinforcement Learning
+## Reinforcement Learning in time series
 
 17. **A Deep Reinforcement Learning Approach for Early Classification of Time Series**  
    [https://doi.org/10.23919/EUSIPCO.2018.8553544](https://doi.org/10.23919/EUSIPCO.2018.8553544)
