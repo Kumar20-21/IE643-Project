@@ -76,6 +76,9 @@
 5. **Harnessing Vision Models for Time Series Analysis: A Survey**  
    [https://arxiv.org/abs/2502.08869](https://arxiv.org/abs/2502.08869)
 
+6. **Transformers in Vision: A Survey**  
+   [https://doi.org/10.1145/3505244](https://doi.org/10.1145/3505244)
+
 ---
 
 ## Repositories
