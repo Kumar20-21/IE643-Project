@@ -1,0 +1,14 @@
+1. git --version
+2. ssh -T git@github.com
+3. git config --global user.name "Keshav Kumar"
+4. git config --global user.email "abc@example.com"
+5. git config user.name "Keshav Kumar"
+6. git config --global user.email "abc@example.com"
+7. change to the project directory
+8. dir /a
+9. git init
+10. git remote add origin git@github.com:Kumar20-21/IE643-Project.git
+11. git remote -v
+12. git add .
+13. git commit -m "Initial commit"
+14. git push origin master
